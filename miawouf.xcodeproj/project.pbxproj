@@ -15,6 +15,7 @@
 		6B791243250169EF00D707F3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6B791241250169EF00D707F3 /* LaunchScreen.storyboard */; };
 		6B79124E250169EF00D707F3 /* miawoufTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B79124D250169EF00D707F3 /* miawoufTests.swift */; };
 		6B79125925016A9000D707F3 /* Races.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B79125825016A9000D707F3 /* Races.swift */; };
+		6B79125F25016B3A00D707F3 /* ThirstyScriptExtraBoldDemo.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6B79125E25016B3A00D707F3 /* ThirstyScriptExtraBoldDemo.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		6B79124D250169EF00D707F3 /* miawoufTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = miawoufTests.swift; sourceTree = "<group>"; };
 		6B79124F250169EF00D707F3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6B79125825016A9000D707F3 /* Races.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Races.swift; sourceTree = "<group>"; };
+		6B79125E25016B3A00D707F3 /* ThirstyScriptExtraBoldDemo.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ThirstyScriptExtraBoldDemo.otf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 		6B79125A25016AB900D707F3 /* Support */ = {
 			isa = PBXGroup;
 			children = (
+				6B79125E25016B3A00D707F3 /* ThirstyScriptExtraBoldDemo.otf */,
 				6B791236250169EE00D707F3 /* AppDelegate.swift */,
 				6B791238250169EE00D707F3 /* SceneDelegate.swift */,
 				6B79123F250169EF00D707F3 /* Assets.xcassets */,
@@ -218,6 +221,7 @@
 				6B791243250169EF00D707F3 /* LaunchScreen.storyboard in Resources */,
 				6B791240250169EF00D707F3 /* Assets.xcassets in Resources */,
 				6B79123E250169EE00D707F3 /* Main.storyboard in Resources */,
+				6B79125F25016B3A00D707F3 /* ThirstyScriptExtraBoldDemo.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
