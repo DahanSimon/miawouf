@@ -1,5 +1,5 @@
 //
-//  FormViewController.swift
+//  CatWelcomeViewController.swift
 //  miawouf
 //
 //  Created by Simon Dahan on 04/09/2020.
@@ -8,6 +8,6 @@
 
 import UIKit
 
-class FormViewController: UIViewController {
+class CatWelcomeViewController: UIViewController {
 
 }
