@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6B10701E2502580300802ECE /* FormViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B10701D2502580300802ECE /* FormViewController.swift */; };
+		6B10702025025D0C00802ECE /* SuccessViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B10701F25025D0C00802ECE /* SuccessViewController.swift */; };
 		6B289A9A250241AC0086167C /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B289A99250241AC0086167C /* WelcomeViewController.swift */; };
 		6B791237250169EE00D707F3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B791236250169EE00D707F3 /* AppDelegate.swift */; };
 		6B791239250169EE00D707F3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B791238250169EE00D707F3 /* SceneDelegate.swift */; };
@@ -29,6 +31,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6B10701D2502580300802ECE /* FormViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormViewController.swift; sourceTree = "<group>"; };
+		6B10701F25025D0C00802ECE /* SuccessViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuccessViewController.swift; sourceTree = "<group>"; };
 		6B289A99250241AC0086167C /* WelcomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
 		6B791233250169EE00D707F3 /* miawouf.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = miawouf.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6B791236250169EE00D707F3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -117,6 +121,8 @@
 			isa = PBXGroup;
 			children = (
 				6B289A99250241AC0086167C /* WelcomeViewController.swift */,
+				6B10701D2502580300802ECE /* FormViewController.swift */,
+				6B10701F25025D0C00802ECE /* SuccessViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -242,6 +248,8 @@
 				6B79125925016A9000D707F3 /* Races.swift in Sources */,
 				6B289A9A250241AC0086167C /* WelcomeViewController.swift in Sources */,
 				6B791237250169EE00D707F3 /* AppDelegate.swift in Sources */,
+				6B10701E2502580300802ECE /* FormViewController.swift in Sources */,
+				6B10702025025D0C00802ECE /* SuccessViewController.swift in Sources */,
 				6B791239250169EE00D707F3 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
