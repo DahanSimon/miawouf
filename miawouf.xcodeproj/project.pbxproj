@@ -19,6 +19,7 @@
 		6B79125925016A9000D707F3 /* Races.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B79125825016A9000D707F3 /* Races.swift */; };
 		6B79125F25016B3A00D707F3 /* ThirstyScriptExtraBoldDemo.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6B79125E25016B3A00D707F3 /* ThirstyScriptExtraBoldDemo.otf */; };
 		6B9AC50B25028A710089710F /* CatFormViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B9AC50A25028A710089710F /* CatFormViewController.swift */; };
+		6BCA90F32507F48B001D0241 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BCA90F22507F48B001D0241 /* Model.swift */; };
 		6BE2BC1725027B0100AA8A5F /* CatWelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BE2BC1625027B0100AA8A5F /* CatWelcomeViewController.swift */; };
 		6BE2BC1B250285D300AA8A5F /* CatSuccessViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BE2BC1A250285D300AA8A5F /* CatSuccessViewController.swift */; };
 /* End PBXBuildFile section */
@@ -50,6 +51,7 @@
 		6B79125825016A9000D707F3 /* Races.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Races.swift; sourceTree = "<group>"; };
 		6B79125E25016B3A00D707F3 /* ThirstyScriptExtraBoldDemo.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ThirstyScriptExtraBoldDemo.otf; sourceTree = "<group>"; };
 		6B9AC50A25028A710089710F /* CatFormViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatFormViewController.swift; sourceTree = "<group>"; };
+		6BCA90F22507F48B001D0241 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 		6BE2BC1625027B0100AA8A5F /* CatWelcomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatWelcomeViewController.swift; sourceTree = "<group>"; };
 		6BE2BC1A250285D300AA8A5F /* CatSuccessViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatSuccessViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -148,6 +150,7 @@
 			isa = PBXGroup;
 			children = (
 				6B79125825016A9000D707F3 /* Races.swift */,
+				6BCA90F22507F48B001D0241 /* Model.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 				6B289A9A250241AC0086167C /* WelcomeViewController.swift in Sources */,
 				6B791237250169EE00D707F3 /* AppDelegate.swift in Sources */,
 				6B9AC50B25028A710089710F /* CatFormViewController.swift in Sources */,
+				6BCA90F32507F48B001D0241 /* Model.swift in Sources */,
 				6B10701E2502580300802ECE /* FormViewController.swift in Sources */,
 				6BE2BC1725027B0100AA8A5F /* CatWelcomeViewController.swift in Sources */,
 				6B10702025025D0C00802ECE /* SuccessViewController.swift in Sources */,
